@@ -1,0 +1,13 @@
+{"data":[{"a":1,"b":60,"c":0.3,"d":1,"e":6,"f":true,"g":false},
+{"a":2,"b":30,"c":0.3,"d":2,"e":6,"f":true,"g":false},
+{"a":1,"b":60,"c":0.1,"d":2,"e":6,"f":true,"g":false},
+{"a":2,"b":38,"c":0.2,"d":1,"e":6,"f":true,"g":false},
+{"a":3,"b":25,"c":0.38,"d":2,"e":6,"f":true,"g":false},
+{"a":2,"b":60,"c":0.17,"d":1,"e":6,"f":true,"g":false},
+{"a":1,"b":80,"c":0.1,"d":1,"e":0,"f":false,"g":false},
+{"a":2,"b":30,"c":0.1,"d":2,"e":0,"f":false,"g":false},
+{"a":3,"b":10,"c":0.1,"d":2,"e":6,"f":true,"g":false},
+{"a":4,"b":30,"c":0.3,"d":2,"e":6,"f":true,"g":false},
+{"a":3,"b":60,"c":0.17,"d":2,"e":6,"f":true,"g":false},
+{"a":8,"b":16,"c":0.8,"d":1,"e":0,"f":false,"g":false}],
+"startingCash":1000, "startingHealth":100, "towersAllowed":[0,1,4,5]}

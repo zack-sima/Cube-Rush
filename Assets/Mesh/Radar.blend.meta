@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 7f2fc3b4aa4254d1eb5d24b3661c2c22
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: Cylinder
+    100018: Cylinder_001
+    100020: Cylinder_002
+    100022: Cylinder_003
+    100024: //RootNode
+    100026: Dome
+    100028: Grip
+    100030: Grip_001
+    100032: Holder
+    100034: Needle
+    100036: Needle_001
+    100038: Needle_002
+    100040: Needle_003
+    100042: Bottom
+    100044: Dome_001
+    100046: Dome_002
+    100048: Dome_003
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: Cylinder
+    400018: Cylinder_001
+    400020: Cylinder_002
+    400022: Cylinder_003
+    400024: //RootNode
+    400026: Dome
+    400028: Grip
+    400030: Grip_001
+    400032: Holder
+    400034: Needle
+    400036: Needle_001
+    400038: Needle_002
+    400040: Needle_003
+    400042: Bottom
+    400044: Dome_001
+    400046: Dome_002
+    400048: Dome_003
+    2100000: unnamed
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: Cylinder
+    2300018: Cylinder_001
+    2300020: Cylinder_002
+    2300022: Cylinder_003
+    2300024: Dome
+    2300026: Grip
+    2300028: Grip_001
+    2300030: Holder
+    2300032: Needle
+    2300034: Needle_001
+    2300036: Needle_002
+    2300038: Needle_003
+    2300040: Bottom
+    2300042: Dome_001
+    2300044: Dome_002
+    2300046: Dome_003
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: Cylinder
+    3300018: Cylinder_001
+    3300020: Cylinder_002
+    3300022: Cylinder_003
+    3300024: Dome
+    3300026: Grip
+    3300028: Grip_001
+    3300030: Holder
+    3300032: Needle
+    3300034: Needle_001
+    3300036: Needle_002
+    3300038: Needle_003
+    3300040: Bottom
+    3300042: Dome_001
+    3300044: Dome_002
+    3300046: Dome_003
+    4300000: Cylinder_003
+    4300002: Cube_007
+    4300004: Cube_006
+    4300006: Cube_005
+    4300008: Cube_004
+    4300010: Cube_003
+    4300012: Cylinder_002
+    4300014: Cube_002
+    4300016: Cube_001
+    4300018: Cylinder_001
+    4300020: Cylinder
+    4300022: Cube
+    4300024: Holder
+    4300026: Grip
+    4300028: Grip_001
+    4300030: Needle_003
+    4300032: Needle_002
+    4300034: Needle_001
+    4300036: Needle
+    4300038: Dome
+    4300040: Bottom
+    4300042: Dome_003
+    4300044: Dome_002
+    4300046: Dome_001
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4b6fb7b478e464b089c50daf4187104e
+  - enabled: 1
+    path: Assets/Scenes/MapChoose.unity
+    guid: c7c9eed52710d4d8aa5404beaa80147f
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 9cc3b2aadedc94b62bf704730ea6a9fd
+  - enabled: 1
+    path: Assets/Scenes/MapEditor.unity
+    guid: 0fb50c5f640e14132b047a2117d15729
+  - enabled: 1
+    path: Assets/Scenes/MapPublish.unity
+    guid: d2250874cb1b940ca9299f0ee4881d1d
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: f8f8eb197319e4dcda9aff9e0e2c2861
+  - enabled: 1
+    path: Assets/Scenes/MapSearch.unity
+    guid: d8d08c3cd895d490bb15da61ba2f7727
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: ad46ba1761c934460830f0651f78a615
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: d1b243403399c4c8c8db194d77687553
+  - enabled: 1
+    path: Assets/Scenes/TowerShop.unity
+    guid: d6089bbd157ae42958fbab178bcfe860
+  - enabled: 1
+    path: Assets/Scenes/InstantsShop.unity
+    guid: 063a6eb60f856404d82c06b13d69316a
+  - enabled: 1
+    path: Assets/Scenes/GemsShop.unity
+    guid: 0e510fde6740741279b7be0bdb55d023
+  - enabled: 1
+    path: Assets/Scenes/Statistics.unity
+    guid: d291ec0dfeb6e4441806c14ceedffec4
+  m_configObjects: {}

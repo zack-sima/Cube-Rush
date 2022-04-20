@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package version="software5.7" xmlns="http://apple.com/itunes/importer">
+  <provider>PJ49JSEELL</provider>
+  <team_id>PJ49JSEELL</team_id>
+  <software>
+    <vendor_id>CubeRush</vendor_id>
+    <software_metadata>
+      <in_app_purchases>
+        <in_app_purchase>
+          <product_id>80gems</product_id>
+          <reference_name>80gems</reference_name>
+          <type>consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>1</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>80 Gems</title>
+              <description>Purchase 80 Gems</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>iapShop.png</file_name>
+            <size>674753</size>
+            <checksum>83642490082774ebde063702ea99ebbd</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+        <in_app_purchase>
+          <product_id>300gems</product_id>
+          <reference_name>300gems</reference_name>
+          <type>consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>3</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>300 Gems</title>
+              <description>Purchase 300 gems</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>iapShop.png</file_name>
+            <size>674753</size>
+            <checksum>83642490082774ebde063702ea99ebbd</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+        <in_app_purchase>
+          <product_id>600gems</product_id>
+          <reference_name>600gems</reference_name>
+          <type>consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>5</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>600 Gems</title>
+              <description>Purchase 600 gems</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>iapShop.png</file_name>
+            <size>674753</size>
+            <checksum>83642490082774ebde063702ea99ebbd</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+        <in_app_purchase>
+          <product_id>unlockalllevels</product_id>
+          <reference_name>unlockalllevels</reference_name>
+          <type>non-consumable</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>4</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>Unlock All Levels + 2000 Coins</title>
+              <description>Unlock all levels in the game</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>iapShop.png</file_name>
+            <size>674753</size>
+            <checksum>83642490082774ebde063702ea99ebbd</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+      </in_app_purchases>
+    </software_metadata>
+  </software>
+</package>
